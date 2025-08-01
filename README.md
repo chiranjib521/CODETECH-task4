@@ -1,3 +1,11 @@
+NAME-CHIRANJIB NAYAK
+COMPANY-CODETECH IT SOLUTIONS
+ID-CT04DZ554
+DURATION-18JULY-18AUG 2025
+MENTOR-NEELA SANTHOSH
+
+
+
 Project Overview: Advanced Encryption Tool
 Objective
 The Advanced Encryption Tool is a Python-based security application designed to encrypt and decrypt files using AES-256 encryption.
